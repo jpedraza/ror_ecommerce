@@ -36,7 +36,7 @@ gem 'jquery-ui-rails'
 gem 'json',           '~> 1.8.0'
 
 #gem "nifty-generators", :git => 'git://github.com/drhenner/nifty-generators.git'
-gem 'nokogiri',     '~> 1.6.0'
+gem 'nokogiri',     '~> 1.6.8'
 gem 'paperclip',    '~> 3.0'
 gem 'prawn',        '~> 0.12.0'
 
