@@ -67,7 +67,7 @@ group :development do
   #gem 'awesome_print'
   #gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
   gem "autotest-rails-pure"
-  gem "better_errors", '~> 0.9.0'
+  gem "better_errors", '~> 2.9.1'
   gem "binding_of_caller", '~> 0.7.2'
   gem 'debugger'#, '~> 1.6.1'
   gem "rails-erd"
